@@ -1,0 +1,1 @@
+scrapy crawl xosokienthiet -o items.json
